@@ -1,0 +1,207 @@
+E:\source\SVDWPF\SVDWPF\bin\Debug\Test.mdf
+E:\source\SVDWPF\SVDWPF\bin\Debug\Test_log.ldf
+E:\source\SVDWPF\SVDWPF\bin\Debug\SVDWPF.exe.config
+E:\source\SVDWPF\SVDWPF\bin\Debug\SVDWPF.exe
+E:\source\SVDWPF\SVDWPF\bin\Debug\SVDWPF.pdb
+E:\source\SVDWPF\SVDWPF\bin\Debug\EntityFramework.dll
+E:\source\SVDWPF\SVDWPF\bin\Debug\EntityFramework.SqlServer.dll
+E:\source\SVDWPF\SVDWPF\bin\Debug\EntityFramework.xml
+E:\source\SVDWPF\SVDWPF\bin\Debug\EntityFramework.SqlServer.xml
+E:\source\SVDWPF\SVDWPF\bin\Debug\ru\EntityFramework.resources.dll
+E:\source\SVDWPF\SVDWPF\obj\Debug\SVDWPF.csproj.AssemblyReference.cache
+E:\source\SVDWPF\SVDWPF\obj\Debug\MainWindow.g.cs
+E:\source\SVDWPF\SVDWPF\obj\Debug\Pages\MainPage.g.cs
+E:\source\SVDWPF\SVDWPF\obj\Debug\Pages\SPR.g.cs
+E:\source\SVDWPF\SVDWPF\obj\Debug\Pages\YCH.g.cs
+E:\source\SVDWPF\SVDWPF\obj\Debug\App.g.cs
+E:\source\SVDWPF\SVDWPF\obj\Debug\SVDWPF_Content.g.cs
+E:\source\SVDWPF\SVDWPF\obj\Debug\SVDWPF_MarkupCompile.cache
+E:\source\SVDWPF\SVDWPF\obj\Debug\SVDWPF_MarkupCompile.lref
+E:\source\SVDWPF\SVDWPF\obj\Debug\MainWindow.baml
+E:\source\SVDWPF\SVDWPF\obj\Debug\Pages\MainPage.baml
+E:\source\SVDWPF\SVDWPF\obj\Debug\Pages\SPR.baml
+E:\source\SVDWPF\SVDWPF\obj\Debug\Pages\YCH.baml
+E:\source\SVDWPF\SVDWPF\obj\Debug\SVDWPF.g.resources
+E:\source\SVDWPF\SVDWPF\obj\Debug\SVDWPF.Properties.Resources.resources
+E:\source\SVDWPF\SVDWPF\obj\Debug\SVDWPF.csproj.GenerateResource.cache
+E:\source\SVDWPF\SVDWPF\obj\Debug\SVDWPF.csproj.CoreCompileInputs.cache
+E:\source\SVDWPF\SVDWPF\obj\Debug\SVDWPF.csproj.Up2Date
+E:\source\SVDWPF\SVDWPF\obj\Debug\SVDWPF.exe
+E:\source\SVDWPF\SVDWPF\obj\Debug\SVDWPF.pdb
+E:\source\SVDWPF\SVDWPF\obj\Debug\Pages\AddSprav.g.cs
+E:\source\SVDWPF\SVDWPF\obj\Debug\Pages\AddYchet.g.cs
+E:\source\SVDWPF\SVDWPF\obj\Debug\Pages\AddSprav.baml
+E:\source\SVDWPF\SVDWPF\obj\Debug\Pages\AddYchet.baml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Test.mdf
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Test_log.ldf
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\SVDWPF.exe.config
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\SVDWPF.exe
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\SVDWPF.pdb
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\BouncyCastle.Cryptography.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\EntityFramework.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\EntityFramework.SqlServer.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Forge.OpenAI.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\itextsharp.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Http.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Options.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Buffers.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Memory.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Net.Http.Json.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Numerics.Vectors.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Text.Encodings.Web.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Text.Json.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.ValueTuple.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\BouncyCastle.Cryptography.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\EntityFramework.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Forge.OpenAI.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\itextsharp.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Http.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Options.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Buffers.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Memory.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Net.Http.Json.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Numerics.Vectors.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Text.Encodings.Web.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Text.Json.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.ValueTuple.xml
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\ru\EntityFramework.resources.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF.csproj.AssemblyReference.cache
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF.csproj.SuggestedBindingRedirects.cache
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\MainWindow.g.cs
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\AddSprav.g.cs
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\AddYchet.g.cs
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\exPDF.g.cs
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\LQS.g.cs
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\LQY.g.cs
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\MainPage.g.cs
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\NavLQS.g.cs
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\SPR.g.cs
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\YCH.g.cs
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\App.g.cs
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF_Content.g.cs
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF_MarkupCompile.cache
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF_MarkupCompile.lref
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\MainWindow.baml
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\AddSprav.baml
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\AddYchet.baml
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\exPDF.baml
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\LQS.baml
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\LQY.baml
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\MainPage.baml
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\NavLQS.baml
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\SPR.baml
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\YCH.baml
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF.g.resources
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF.Properties.Resources.resources
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF.csproj.GenerateResource.cache
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF.csproj.CoreCompileInputs.cache
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF.csproj.CopyComplete
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF.exe
+D:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF.pdb
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Test.mdf
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Test_log.ldf
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\SVDWPF.exe.config
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\SVDWPF.exe
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\SVDWPF.pdb
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\BouncyCastle.Cryptography.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\EntityFramework.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\EntityFramework.SqlServer.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Forge.OpenAI.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\itextsharp.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Http.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Options.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Buffers.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Memory.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Net.Http.Json.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Numerics.Vectors.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Text.Encodings.Web.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Text.Json.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.ValueTuple.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\BouncyCastle.Cryptography.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\EntityFramework.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\EntityFramework.SqlServer.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Forge.OpenAI.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\itextsharp.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Http.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Options.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Buffers.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Memory.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Net.Http.Json.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Numerics.Vectors.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Text.Encodings.Web.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Text.Json.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\System.ValueTuple.xml
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\ru\EntityFramework.resources.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF.csproj.AssemblyReference.cache
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\MainWindow.baml
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\AddSprav.baml
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\AddYchet.baml
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\exPDF.baml
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\LQS.baml
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\LQY.baml
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\MainPage.baml
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\NavLQS.baml
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\SPR.baml
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\YCH.baml
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\MainWindow.g.cs
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\AddSprav.g.cs
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\AddYchet.g.cs
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\exPDF.g.cs
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\LQS.g.cs
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\LQY.g.cs
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\MainPage.g.cs
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\NavLQS.g.cs
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\SPR.g.cs
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\YCH.g.cs
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\App.g.cs
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF_Content.g.cs
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF_MarkupCompile.cache
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF_MarkupCompile.lref
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF.g.resources
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF.Properties.Resources.resources
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF.csproj.GenerateResource.cache
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF.csproj.CoreCompileInputs.cache
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF.csproj.Up2Date
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF.exe
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\SVDWPF.pdb
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\LQSFILT.g.cs
+F:\МДК 01.01\SVDWPF\SVDWPF\obj\Debug\Pages\LQSFILT.baml

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище TestModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Spravoch">
+    <Key>
+      <PropertyRef Name="nomer_licevogo_scheta" />
+    </Key>
+    <Property Name="nomer_licevogo_scheta" Type="int" Nullable="false" />
+    <Property Name="FIO" Type="nvarchar" MaxLength="50" />
+    <Property Name="Adress" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Ychetn">
+    <Key>
+      <PropertyRef Name="nomer_zapisi" />
+    </Key>
+    <Property Name="nomer_zapisi" Type="int" Nullable="false" />
+    <Property Name="nomer_licevogo_Scheta" Type="int" />
+    <Property Name="Mesyac" Type="nvarchar" MaxLength="50" />
+    <Property Name="Tariff" Type="nvarchar" />
+    <Property Name="kolvo_kilovatt" Type="int" />
+  </EntityType>
+  <Association Name="FK_Ychetn_Spravoch">
+    <End Role="Spravoch" Type="Self.Spravoch" Multiplicity="0..1" />
+    <End Role="Ychetn" Type="Self.Ychetn" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Spravoch">
+        <PropertyRef Name="nomer_licevogo_scheta" />
+      </Principal>
+      <Dependent Role="Ychetn">
+        <PropertyRef Name="nomer_licevogo_Scheta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище TestModelContainer">
+    <EntitySet Name="Spravoch" EntityType="Self.Spravoch" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ychetn" EntityType="Self.Ychetn" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Ychetn_Spravoch" Association="Self.FK_Ychetn_Spravoch">
+      <End Role="Spravoch" EntitySet="Spravoch" />
+      <End Role="Ychetn" EntitySet="Ychetn" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

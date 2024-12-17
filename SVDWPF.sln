@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVDWPF", "SVDWPF\SVDWPF.csproj", "{53D9E976-D812-450C-BDC0-F12A4A6AD698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVDWPFTests1", "SVDWPFTests1\SVDWPFTests1.csproj", "{D9A95D26-2353-47EE-8047-3E76DE2043DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D9E976-D812-450C-BDC0-F12A4A6AD698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D9E976-D812-450C-BDC0-F12A4A6AD698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D9E976-D812-450C-BDC0-F12A4A6AD698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D9E976-D812-450C-BDC0-F12A4A6AD698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A95D26-2353-47EE-8047-3E76DE2043DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A95D26-2353-47EE-8047-3E76DE2043DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A95D26-2353-47EE-8047-3E76DE2043DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A95D26-2353-47EE-8047-3E76DE2043DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7C21289-D202-4EE0-8D32-4D84C339A728}
+	EndGlobalSection
+EndGlobal

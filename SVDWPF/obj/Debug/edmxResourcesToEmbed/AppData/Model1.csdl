@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TestModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Spravoch">
+    <Key>
+      <PropertyRef Name="nomer_licevogo_scheta" />
+    </Key>
+    <Property Name="nomer_licevogo_scheta" Type="Int32" Nullable="false" />
+    <Property Name="FIO" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Adress" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Ychetn" Relationship="Self.FK_Ychetn_Spravoch" FromRole="Spravoch" ToRole="Ychetn" />
+  </EntityType>
+  <EntityType Name="Ychetn">
+    <Key>
+      <PropertyRef Name="nomer_zapisi" />
+    </Key>
+    <Property Name="nomer_zapisi" Type="Int32" Nullable="false" />
+    <Property Name="nomer_licevogo_Scheta" Type="Int32" />
+    <Property Name="Mesyac" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Tariff" Type="String" />
+    <Property Name="kolvo_kilovatt" Type="Int32" />
+    <NavigationProperty Name="Spravoch" Relationship="Self.FK_Ychetn_Spravoch" FromRole="Ychetn" ToRole="Spravoch" />
+  </EntityType>
+  <Association Name="FK_Ychetn_Spravoch">
+    <End Role="Spravoch" Type="Self.Spravoch" Multiplicity="0..1" />
+    <End Role="Ychetn" Type="Self.Ychetn" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Spravoch">
+        <PropertyRef Name="nomer_licevogo_scheta" />
+      </Principal>
+      <Dependent Role="Ychetn">
+        <PropertyRef Name="nomer_licevogo_Scheta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TestEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Spravoch" EntityType="Self.Spravoch" />
+    <EntitySet Name="Ychetn" EntityType="Self.Ychetn" />
+    <AssociationSet Name="FK_Ychetn_Spravoch" Association="Self.FK_Ychetn_Spravoch">
+      <End Role="Spravoch" EntitySet="Spravoch" />
+      <End Role="Ychetn" EntitySet="Ychetn" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
